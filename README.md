@@ -1,4 +1,4 @@
-# __Overview Stats of StackOverFlow 2021__
+# __A summary of stackoverflow's 2021 statistics on the best code editor for developers__
 
 ## __The Integrated development environment__
 
